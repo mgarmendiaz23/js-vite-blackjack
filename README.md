@@ -11,4 +11,4 @@ Pasos para ejecutar el proyecto.
 ## Produccion
 
 1.- Ejecutar run ```npm run build```
-2.- Tomar carpera ```dist``` y desplegarla.
+2.- Tomar carpera ```dist``` y desplegarla.git pus
